@@ -99,6 +99,8 @@ bash
 - Transaction logs
 - GUI implementation
 - Online banking features
+- Build a REST API
+- JWT Authentication
 
 ## Learning Outcomes
 
